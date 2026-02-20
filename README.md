@@ -1,6 +1,6 @@
-# FANG LeetCode Questions — DSA Solutions in Java
+# FANG LeetCode Questions — DSA Solutions in Python
 
-A curated collection of LeetCode problems commonly asked at **FAANG/MAANG** companies (Meta, Apple, Amazon, Netflix, Google), organized by data structure and algorithm pattern. All solutions are written in **Java**.
+A curated collection of LeetCode problems commonly asked at **FAANG/MAANG** companies (Meta, Apple, Amazon, Netflix, Google), organized by data structure and algorithm pattern. All solutions are written in **Python**.
 
 ---
 
@@ -34,21 +34,17 @@ cd FANG_leetcode_questions
 
 # Navigate to a pattern
 cd Graph
-```
 
-Each folder contains `.java` files named after the LeetCode problem for easy cross-referencing.
+# Run a solution
+python problem_name.py
+```
 
 ---
 
 ## Setup
 
-- **Language**: Java (JDK 17+)
-- No build system required — each solution file is standalone
-
-```bash
-javac ProblemName.java
-java ProblemName
-```
+- **Language**: Python 3.10+
+- No dependencies required — each solution file is standalone
 
 ---
 
